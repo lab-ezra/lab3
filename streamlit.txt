@@ -1,0 +1,10 @@
+streamlit>
+pandas>
+matplotlib>
+Pillow>
+pyproj>
+folium>
+streamlit-folium>
+ezdxf>=
+geopandas>
+shapely>
